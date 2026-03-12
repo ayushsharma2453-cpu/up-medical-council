@@ -1,0 +1,12 @@
+{
+  "name": "up-medical-council",
+  "version": "1.0.0",
+  "description": "Medical register search system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
